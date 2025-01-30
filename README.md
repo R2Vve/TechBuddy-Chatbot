@@ -1,15 +1,15 @@
-# TechBuddy Chatbot
+# 🤖 TechBuddy Chatbot
 
 TechBuddy is a friendly and professional chatbot specialized in tech support. It provides efficient and accurate responses to user queries while maintaining a consistent personality.
 
-## Features
+## ✨ Features
 
 - **Personalized Responses**: Tailored responses based on user input.
 - **KPI Tracking**: Tracks key performance indicators like response time, satisfaction score, and resolution rate.
 - **Surveys**: Collects user feedback to improve service quality.
 - **Real-time Metrics**: Displays real-time KPI metrics during the chat session.
 
-## Installation
+## 🛠️ Installation
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
 3. Set up your environment variables:
     - Add your `OPENAI_API_KEY2` and `NGROK_AUTH_TOKEN` to your environment variables or Colab secrets.
 
-## Usage
+## 🚀 Usage
 
 1. **Run the Flask App**:
     ```bash
@@ -46,14 +46,14 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
 2. **Access the Chatbot**:
     - Use the public URL provided by Ngrok to interact with the chatbot.
 
-## Files and Directories
+## 📁 Files and Directories
 
 - `scripts/`: Contains the main script for running the chatbot.
 - `data/`: Directory for storing data files.
 - `templates/`: HTML templates for the Flask app.
 - `README.md`: This file.
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -62,6 +62,6 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
