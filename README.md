@@ -15,15 +15,16 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
 
 - Python 3.7 or higher
 - pip (Python package installer)
-- Git
 - Ngrok
+- Flask
+  
 
 ### Steps
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/TechBuddy-Chatbot.git
+    git clone https://github.com/R2Vve/TechBuddy-Chatbot.git
     cd TechBuddy-Chatbot
     ```
 
@@ -34,7 +35,7 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
     ```
 
 3. Set up your environment variables:
-    - Add your `OPENAI_API_KEY2` and `NGROK_AUTH_TOKEN` to your environment variables or Colab secrets.
+    - Add your `OPENAI_API_KEY` and `NGROK_AUTH_TOKEN` to your environment variables or Colab secrets.
 
 ## 🚀 Usage
 
@@ -51,7 +52,6 @@ TechBuddy is a friendly and professional chatbot specialized in tech support. It
 - `scripts/`: Contains the main script for running the chatbot.
 - `data/`: Directory for storing data files.
 - `templates/`: HTML templates for the Flask app.
-- `README.md`: This file.
 
 ## 🤝 Contributing
 
